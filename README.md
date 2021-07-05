@@ -14,7 +14,10 @@
 
 Hello Coders, I am Mursalim Ansari
 
-A pseudo-introvert, a developer, a dsa enthuasist, and an opportunity seeker
+* A pseudo-introvert 
+* a developer 
+* a dsa enthuasist 
+* an opportunity seeker
 
 https://github.com/MursalimAnsari
 
