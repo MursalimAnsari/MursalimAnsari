@@ -6,10 +6,9 @@
 
 * [About Me](#about-me)
 * [My Octocat](#my-octocat)
-* [My Blog](#my-blog)
 * [Tasks](#tasks)
-* [10 Ways to contact me](#10-ways-to-contact-me)
-* [Donate](#donate)
+* [Ways to contact me](#ways-to-contact-me)
+ 
 
 ## about Me
 
