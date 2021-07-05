@@ -14,7 +14,7 @@
 
 Hello Coders, I am Mursalim Ansari
 
-A pseudo-introvert, a developer, and a dsa enthuasist
+A pseudo-introvert, a developer, a dsa enthuasist, and an opportunity seeker
 
 https://github.com/MursalimAnsari
 
@@ -30,9 +30,9 @@ https://github.com/MursalimAnsari
 <tr><th scope='row'>Name</th><td>Mursalim Ansari </td></tr>
 <tr><th scope='row'>Education</th><td>BTech</td></tr>
 <tr><th scope='row'> University</th><td>Hemwati Nandan Bahuguna Garhwal University</td></tr>
-<tr><th scope='row'>Nationality</th><td>Indian</td></tr>
 <tr><th scope='row'>Skills</th><td>Core Java,Java 8, Typescript, Angular 8, Dsa Problem solving</td></tr>
 <tr><th scope='row'>Other Name</th><td>Mursu</td></tr>
+  <tr><th scope='row'>Nationality</th><td>Indian</td></tr>
 </tbody>
 </table>
 
