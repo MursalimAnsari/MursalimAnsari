@@ -10,7 +10,7 @@
 * [Ways to contact me](#ways-to-contact-me)
  
 
-## about Me
+## About Me
 
 Hello Coders, I am Mursalim Ansari
 
