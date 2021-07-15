@@ -2,7 +2,7 @@
 
 <p align='center'><img src="https://theabbie.github.io/files/logo.png" alt="TheAbbie" width="100" height="100"></p>
 
-[![Rate on Openbase](https://badges.openbase.io/js/rating/theabbie.svg)](https://openbase.io/js/theabbie?utm_source=embedded&utm_medium=badge&utm_campaign=rate-badge)
+[![Rate on Openbase](https://utm_campaign=rate-badge)
 
 * [About Me](#about-me)
 * [My Octocat](#my-octocat)
