@@ -49,7 +49,7 @@ https://github.com/MursalimAnsari
 <ul>
 <li><a href="mailto:MursalimAnsar786@gmail.com@gmail.com" rel="me">Mail</a>
 <li><a href="https://www.instagram.com/i_mursalim_ansar/" rel="me">Instagram DM</a>
-<li><a href="https://t.me/9411341633" rel="me">Telegram</a>
+<li><a href="https://t.me/9650543233" rel="me">Telegram</a>
 <li><a href="https://wa.me/9650543233?text=Hi" rel="me">Whatsapp</a>
 <li><a href="https://linkedin.com/in/https://www.linkein.com/in/mursalim-ansari-356037182" rel="me">Linkedin</a>
  
